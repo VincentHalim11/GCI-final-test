@@ -1,2 +1,2 @@
 # GCI-final-test-dataset
-dataset for GCI GLOBAL
+PPT dan file code untuk GCI GLOBAL
